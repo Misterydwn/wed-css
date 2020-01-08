@@ -50,12 +50,22 @@ p {
 .column_1 {
   float: left;
   width: 33.3333%;
+  padding-right: 10px;
+  padding-left: 10px;
 }
 
 .column_2 {
   width: 33.3333%;
+  float: right;
+  padding-right: 10px;
+  padding-left: 10px;
 }
 
 .border {
   border: 2px solid #C4F0AE;
+  margin: 8px;
+}
+
+.background {
+  background-color: #A6B2A0;
 }
