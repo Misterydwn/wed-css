@@ -1,7 +1,7 @@
 h1{
   color: #4A8E57;
   text-align: left;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 30px;
   margin-top: 25px;
 }
@@ -13,7 +13,7 @@ body{
 h2{
   color: #4A8E57;
   text-align: left;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 20px;
 }
 
@@ -21,11 +21,11 @@ h2{
 p{
   color: #404A3A;
   text-align: left;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 15px;
 }
 
 .fancy{
   font-variant-caps: small-caps;
-  font-weight: 7px;
+  font-weight: 10px;
 }
