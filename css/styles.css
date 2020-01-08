@@ -1,4 +1,4 @@
-h1{
+h1 {
   color: #4A8E57;
   text-align: left;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -6,11 +6,11 @@ h1{
   margin-top: 25px;
 }
 
-body{
+body {
   background-color: #BBC9B2 
 }
 
-h2{
+h2 {
   color: #4A8E57;
   text-align: left;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -18,22 +18,27 @@ h2{
 }
 
 
-p{
+p {
   color: #404A3A;
   text-align: left;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 15px;
 }
 
-.fancy{
+.fancy {
   font-variant-caps: small-caps;
   font-weight: 10px;
 }
 
-.wrap{
+.wrap {
   float: left;
   margin-top: 10px;
   margin-left: 10px;
   margin-right: 10px;
   margin-bottom: 10px;
+}
+
+.sidebar {
+  float: right;
+  background-color: #5C9E76;
 }
