@@ -41,6 +41,10 @@ p {
 .sidebar {
   float: right;
   background-color: #5C9E76;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 .column_1 {
@@ -49,11 +53,6 @@ p {
 }
 
 .column_2 {
-  width: 33.3333%;
-}
-
-.column_3 {
-  float: right;
   width: 33.3333%;
 }
 
