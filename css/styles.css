@@ -42,3 +42,17 @@ p {
   float: right;
   background-color: #5C9E76;
 }
+
+.column_1 {
+  float: left;
+  width: 33.3333%;
+}
+
+.column_2 {
+  width: 33.3333%;
+}
+
+.column_3 {
+  float: right;
+  width: 33.3333%;
+}
