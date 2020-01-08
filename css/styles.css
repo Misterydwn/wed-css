@@ -29,3 +29,11 @@ p{
   font-variant-caps: small-caps;
   font-weight: 10px;
 }
+
+.wrap{
+  float: left;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
